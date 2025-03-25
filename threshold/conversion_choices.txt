@@ -1,0 +1,1706 @@
+id is 7000:
+0) Fort York  Blvd / Capreol Crt
+1) Fort York  Blvd / Capreol Ct
+2) None.
+
+Input:  0
+
+id is 7001:
+0) Lower Jarvis St / The Esplanade
+1) Wellesley Station Green P
+2) None.
+
+Input:  2
+
+id is 7002:
+0) St George St / Bloor St W
+1) St. George St / Bloor St W
+2) None.
+
+Input:  1
+
+id is 7005:
+0) University Ave / King St W
+1) King St W / York St
+2) None.
+
+Input:  2
+
+id is 7007:
+0) College St W / Huron St
+1) College St / Huron St
+2) None.
+
+Input:  0
+
+id is 7008:
+0) Wellesley St / Queen's Park Cres
+1) Wellesley St W / Queen's Park Cres
+2) None.
+
+Input:  1
+
+id is 7017:
+0) Widmer St / Adelaide St 
+1) Widmer St / Adelaide St W
+2) Widmer St / Adelaide St W - SMART
+3) None.
+
+Input:  1
+
+id is 7019:
+0) Temperance St / Yonge St
+1) Temperance St. Station
+2) Temperance St Station
+3) None.
+
+Input:  0
+
+id is 7023:
+0) College St W / Borden St
+1) College St / Borden St
+2) None.
+
+Input:  0
+
+id is 7027:
+0) Beverly  St / Dundas St W
+1) Beverley  St / Dundas St W
+2) Beverley St / Dundas St W
+3) None.
+
+Input:  2
+
+id is 7029:
+0) Bay St / Bloor St W
+1) St. James Park (King St. E.)
+2) Bay St / Bloor St W (East Side)
+3) None.
+
+Input:  3
+
+id is 7038:
+0) Dundas St / Yonge St
+1) Dundas St W / Yonge St
+2) None.
+
+Input:  1
+
+id is 7039:
+0) Simcoe St / Dundas St W
+1) Simcoe St / Michael Sweet Ave
+2) Simcoe St / Michael Sweet Ave - SMART
+3) None.
+
+Input:  3
+
+id is 7042:
+0) Sherbourne St / Wellesley St
+1) Sherbourne St / Wellesley St E
+2) None.
+
+Input:  1
+
+id is 7047:
+0) University Ave / Gerrard St W
+1) University Ave / Gerrard St W (East Side)
+2) None.
+
+Input:  1
+
+id is 7048:
+0) Front St / Yonge St (Hockey Hall of Fame)
+1) Front St W / Yonge St (Hockey Hall of Fame)
+2) None.
+
+Input:  1
+
+id is 7049:
+0) Queen St W / Portland St
+1) Portland St / Queen St W
+2) None.
+
+Input:  0
+
+id is 7051:
+0) Wellesley St E / Yonge St Green P
+1) Wellesley St E / Yonge St (Green P)
+2) Mutual St / Shuter St
+3) None.
+
+Input:  3
+
+id is 7054:
+0) Navy Wharf Ct. / Bremner Blvd.
+1) Navy Wharf Crt / Bremner Blvd
+2) None.
+
+Input:  1
+
+id is 7057:
+0) Simcoe St / Wellington St W
+1) Simcoe St / Wellington St South
+2) Simcoe St / Wellington St W South
+3) None.
+
+Input:  2
+
+id is 7058:
+0) Huron/ Harbord St
+1) Huron St / Harbord St
+2) None.
+
+Input:  1
+
+id is 7060:
+0) Princess St / Adelaide St
+1) Princess St / Adelaide St E
+2) None.
+
+Input:  1
+
+id is 7061:
+0) Bloor St / Brunswick Ave
+1) Dalton Rd / Bloor St W
+2) None.
+
+Input:  2
+
+id is 7062:
+0) University Ave / College St
+1) University Ave / College St (West)
+2) None.
+
+Input:  1
+
+id is 7063:
+0) Queens Park / Bloor St W
+1) Queen's Park / Bloor St W
+2) None.
+
+Input:  1
+
+id is 7068:
+0) Dockside Dr / Queens Quay E (Sugar Beach)
+1) Blantyre Park
+2) None.
+
+Input:  2
+
+id is 7070:
+0) 25 York St (ACC/Union Station South)
+1) 25 York St   Union Station South
+2) 25 York St – Union Station South
+3) 25 York St GÇô Union Station South
+4) 25 York St ? Union Station South
+5) None.
+
+Input:  0
+
+id is 7072:
+0) Queen St W / Shaw St
+1) Fleet St / Bathurst St
+2) None.
+
+Input:  2
+
+id is 7073:
+0) Bremner Blvd / Spadina Ave
+1) Spadina Ave / Fort York Blvd
+2) None.
+
+Input:  2
+
+id is 7074:
+0) Spadina Ave / Sussex Ave
+1) King St E / Church St
+2) None.
+
+Input:  2
+
+id is 7078:
+0) College St W / Major St
+1) College St / Major St
+2) None.
+
+Input:  0
+
+id is 7084:
+0) Stephenson Ave / Main St
+1) High Park - Grenadier Cafe
+2) None.
+
+Input:  2
+
+id is 7086:
+0) Woodbine Subway Green P (Cedarvale Ave)
+1) High Park - West Rd
+2) None.
+
+Input:  2
+
+id is 7091:
+0) Donlands Station
+1) Donlands Subway Station
+2) None.
+
+Input:  1
+
+id is 7094:
+0) Chester Station
+1) Chester Station (Green P)
+2) 14 Arundel Ave
+3) None.
+
+Input:  3
+
+id is 7096:
+0) Boston Ave / Queen St E
+1) Lower Don River Trail and Taylor Creek Trail
+2) None.
+
+Input:  2
+
+id is 7098:
+0) Riverdale Park South (Broadview Ave)
+1) Riverdale Park South (Broadview Ave, old)
+2) None.
+
+Input:  0
+
+id is 7109:
+0) Seaton St / Dundas St E
+1) Seaton St / Dundas St E - SMART
+2) None.
+
+Input:  0
+
+id is 7110:
+0) Queen St E / Berkely St
+1) Queen St E / Berkeley St
+2) None.
+
+Input:  1
+
+id is 7116:
+0) Parliament St / Bloor St E
+1) 555 Bloor St East
+2) Bloor St E / Parliament St
+3) None.
+
+Input:  2
+
+id is 7117:
+0) Castle Frank Station
+1) 640 Bloor Street E
+2) None.
+
+Input:  2
+
+id is 7119:
+0) Sumach St / Carlton St. (Riverdale Farm)
+1) Sumach St / Carlton St (Riverdale Farm)
+2) None.
+
+Input:  1
+
+id is 7123:
+0) 424 Wellington St. W
+1) 424 Wellington St W
+2) 424 Wellington St W - SMART
+3) None.
+
+Input:  1
+
+id is 7127:
+0) Bay St / Davenport Rd
+1) Bay St / Scollard St
+2) None.
+
+Input:  2
+
+id is 7130:
+0) Davenport Rd / Bedford Rd
+1) Pears Av / Avenue Rd
+2) None.
+
+Input:  2
+
+id is 7133:
+0) Summerhill Station
+1) Summerhill Subway Station
+2) None.
+
+Input:  1
+
+id is 7141:
+0) Bridgeman Ave / Kendal Ave
+1) Bridgeman Ave / Kendal Ave - SMART
+2) Bridgman Ave / Kendal Ave
+3) None.
+
+Input:  0
+
+id is 7142:
+0) Bridgeman Ave / Bathurst St
+1) Bridgman Ave / Bathurst St
+2) None.
+
+Input:  0
+
+id is 7151:
+0) Essex St / Christie St
+1) Essex St / Christie St - SMART
+2) None.
+
+Input:  0
+
+id is 7157:
+0) Dufferin St / Bloor St
+1) Dufferin St / Bloor St W
+2) None.
+
+Input:  1
+
+id is 7161:
+0) Beverly St / College St W
+1) Beverley St / College St
+2) None.
+
+Input:  0
+
+id is 7162:
+0) Hayter St / Laplante Ave
+1) Hayter St / La Plante Ave
+2) None.
+
+Input:  1
+
+id is 7164:
+0) Victoria St / Gould St (Ryerson University)
+1) Gould St / Yonge St (Ryerson University)
+2) Gould St / Yonge St (TMU)
+3) None.
+
+Input:  2
+
+id is 7169:
+0) Front St / Bay St (North Side)
+1) Front St W / Bay St (North Side)
+2) None.
+
+Input:  1
+
+id is 7171:
+0) Ontario Place Blvd / Remembrance Dr
+1) Ontario Place Blvd / Lakeshore Blvd W
+2) Ontario Place Blvd / Lake Shore Blvd W (East)
+3) Ontario Place Blvd / Lake Shore Blvd W
+4) None.
+
+Input:  2
+
+id is 7173:
+0) Cariboo St / Rail Path
+1) Cariboo Ave / Railpath Trail
+2) None.
+
+Input:  1
+
+id is 7175:
+0) HTO Park (Queen's Quay W)
+1) HTO Park (Queens Quay W)
+2) None.
+
+Input:  0
+
+id is 7179:
+0) Bloor GO / UP Station/ Rail Path
+1) Bloor GO / UP Station (West Toronto Railpath)
+2) None.
+
+Input:  1
+
+id is 7180:
+0) Landsdowne Subway Green P
+1) Lansdowne Subway Station
+2) None.
+
+Input:  1
+
+id is 7183:
+0) Margueretta St / College St W
+1) St Clarens Ave / College St
+2) None.
+
+Input:  2
+
+id is 7184:
+0) Ossington Ave / College St W
+1) Ossington Ave / College St
+2) None.
+
+Input:  0
+
+id is 7193:
+0) Queen St W / Gladstone Ave
+1) Dufferin St / Queen St W
+2) None.
+
+Input:  2
+
+id is 7199:
+0) College St W / Markham St
+1) College St / Markham St
+2) None.
+
+Input:  0
+
+id is 7202:
+0) Queen St W / York St (City Hall)
+1) Queen St W / Bay St (City Hall)
+2) None.
+
+Input:  0
+
+id is 7203:
+0) Bathurst St / Queens Quay W
+1) Bathurst St/Queens Quay(Billy Bishop Airport)
+2) None.
+
+Input:  0
+
+id is 7204:
+0) College St W / Crawford St
+1) College St / Crawford St
+2) None.
+
+Input:  0
+
+id is 7205:
+0) Rusholme Park Cres / College St W
+1) Rusholme Park Cres / College St
+2) None.
+
+Input:  0
+
+id is 7208:
+0) 80 Clinton St (North of College)
+1) 80 Clinton St (North of College) - SMART
+2) 80 Clinton St
+3) None.
+
+Input:  0
+
+id is 7220:
+0) Lakeshore Blvd W / Ellis Ave
+1) Lake Shore Blvd W / Ellis Ave
+2) None.
+
+Input:  1
+
+id is 7225:
+0) Lakeshore Blvd W / Windermere Ave
+1) Lake Shore Blvd W / Windermere Ave
+2) None.
+
+Input:  1
+
+id is 7226:
+0) Lakeshore Blvd W / The Boulevard Club
+1) Lake Shore Blvd W / The Boulevard Club
+2) None.
+
+Input:  1
+
+id is 7228:
+0) Queen St W / Roncesvalles Ave
+1) King St W / Wilson Park Blvd
+2) None.
+
+Input:  2
+
+id is 7229:
+0) Dundas St W / Roncesvalles Green P - SMART
+1) Dundas St W / Roncesvalles Ave Green P -SMART
+2) None.
+
+Input:  1
+
+id is 7231:
+0) Wright / Sorauren (Sorauren Park) - SMART
+1) Wright Ave / Sorauren Ave - SMART
+2) None.
+
+Input:  1
+
+id is 7233:
+0) King / Cowan Ave - SMART
+1) King St W / Cowan Ave - SMART
+2) None.
+
+Input:  1
+
+id is 7237:
+0) Ward Ave / Wallace Ave
+1) Ward St / Wallace Ave
+2) None.
+
+Input:  1
+
+id is 7238:
+0) Sorauren/Geoffrey (Sorauren Park) - SMART
+1) Sorauren Ave / Geoffrey St - SMART
+2) None.
+
+Input:  1
+
+id is 7240:
+0) Bloor St W / Shaw Ave - SMART
+1) Bloor St W / Shaw St - SMART
+2) None.
+
+Input:  0
+
+id is 7241:
+0) 519 Church St - SMART
+1) 519 Church St
+2) None.
+
+Input:  1
+
+id is 7242:
+0) Lakeshore Blvd W / Ontario Dr
+1) Lake Shore Blvd W / Ontario Dr
+2) None.
+
+Input:  1
+
+id is 7248:
+0) Baldwin Ave / Spadina Ave - SMART
+1) Baldwin St / Spadina Ave - SMART
+2) None.
+
+Input:  1
+
+id is 7249:
+0) Dovercourt Rd / Harrison St (Green P) - SMART
+1) Lakeview Ave / Harrison St (Green P) – SMART
+2) None.
+
+Input:  0
+
+id is 7250:
+0) St. George St / Russell St - SMART
+1) Ursula Franklin St / St. George St - SMART
+2) None.
+
+Input:  2
+
+id is 7258:
+0) Queen St E / Larchmount Ave
+1) Queen St E / Rushbrooke Ave
+2) None.
+
+Input:  2
+
+id is 7259:
+0) Lower Spadina Ave / Lakeshore Blvd
+1) Lower Spadina Ave / Lake Shore Blvd
+2) Lower Spadina Ave / Lake Shore Blvd W
+3) None.
+
+Input:  2
+
+id is 7269:
+0) Toronto Eaton Centre (Yonge St)
+1) Toronto Eaton Centre (Yonge St) - SMART
+2) None.
+
+Input:  0
+
+id is 7273:
+0) Bay St / Charles St - SMART
+1) Bay St / Charles St W - SMART
+2) None.
+
+Input:  1
+
+id is 7284:
+0) York St / King St W - SMART
+1) University Ave / King St W - SMART
+2) None.
+
+Input:  1
+
+id is 7286:
+0) Gerrard St E / Broadview - SMART
+1) Gerrard St E / Broadview Ave  - SMART
+2) None.
+
+Input:  1
+
+id is 7291:
+0) Lakeshore Blvd E / Parliament St
+1) 190 Queens Quay E
+2) None.
+
+Input:  2
+
+id is 7301:
+0) Primrose Ave / Davenport Rd
+1) Primrose Ave / Davenport Rd - SMART
+2) None.
+
+Input:  0
+
+id is 7303:
+0) Queen St. E / Woodward Av
+1) Queen St E / Woodward Ave
+2) None.
+
+Input:  1
+
+id is 7309:
+0) Queen St. E / Rhodes Ave.
+1) Queen St E / Rhodes Ave
+2) None.
+
+Input:  1
+
+id is 7312:
+0) Amelia St. / Sumach St.
+1) Amelia St / Sumach St
+2) None.
+
+Input:  1
+
+id is 7313:
+0) Coxwell Ave/  Lakeshore Blvd E
+1) Coxwell Ave /  Lake Shore Blvd E
+2) Lower Coxwell Ave /  Lake Shore Blvd E
+3) None.
+
+Input:  1
+
+id is 7318:
+0) Hubbard Blvd. / Glen Manor Dr.
+1) Hubbard Blvd / Glen Manor Dr
+2) None.
+
+Input:  1
+
+id is 7319:
+0) Lakeshore Blvd E / Knox Ave
+1) Lake Shore Blvd E / Knox Ave
+2) None.
+
+Input:  1
+
+id is 7322:
+0) King St W / Brant St
+1) East Liberty St / Western Battery Rd
+2) None.
+
+Input:  2
+
+id is 7323:
+0) 457 King St. W. at Spadina
+1) 457 King St W
+2) None.
+
+Input:  2
+
+id is 7324:
+0) King St W / Charlotte St
+1) King St W / Charlotte St (West)
+2) King St W / Charlotte St (West Side)
+3) None.
+
+Input:  1
+
+id is 7326:
+0) Davenport Rd / Lansdowne Ave.
+1) Davenport Rd / Lansdowne Ave
+2) None.
+
+Input:  1
+
+id is 7327:
+0) Davenport Rd / Oakwood Rd - SMART
+1) Davenport Rd / Dovercourt Rd - SMART
+2) None.
+
+Input:  0
+
+id is 7332:
+0) 200 Bloor St. E.
+1) 200 Bloor St E
+2) None.
+
+Input:  1
+
+id is 7334:
+0) Simcoe St / Wellington St North
+1) Simcoe St / Wellington St W North
+2) None.
+
+Input:  1
+
+id is 7335:
+0) 123 Queen St W
+1) Bay St / Bloor St W (West Side)
+2) None.
+
+Input:  2
+
+id is 7340:
+0) Blake St / Boultbee Ave
+1) Blake St / Boultbee Ave - SMART
+2) None.
+
+Input:  0
+
+id is 7342:
+0) Morse St / Eastern Ave
+1) Morse St / Eastern Ave - SMART
+2) None.
+
+Input:  0
+
+id is 7345:
+0) Cherry Beach Sports Field (55 Unwin Ave)
+1) Cherry Beach Sports Fields (55 Unwin Ave)
+2) None.
+
+Input:  1
+
+id is 7346:
+0) Logan Av / Gerrard St E
+1) Logan Ave / Gerrard St E
+2) None.
+
+Input:  1
+
+id is 7351:
+0) Pretoria Av / Broadview Av
+1) Pretoria Ave / Broadview Ave
+2) None.
+
+Input:  1
+
+id is 7353:
+0) Fulton Ave / Pape Ave
+1) Fulton Ave / Pape Ave - SMART
+2) None.
+
+Input:  0
+
+id is 7355:
+0) Beltline Trail / Chaplin Cres.
+1) Beltline Trail / Chaplin Cres
+2) None.
+
+Input:  1
+
+id is 7356:
+0) King St E / Ontario St.
+1) King St E / Berkeley St
+2) None.
+
+Input:  1
+
+id is 7357:
+0) Lakeshore Blvd E /Leslie St
+1) Lake Shore Blvd E / Leslie St
+2) None.
+
+Input:  1
+
+id is 7358:
+0) Gailbraith Rd / King s College Cr. (U of T)
+1) Gailbraith Rd / King’s College Cr. (U of T)
+2) Gailbraith Rd / KingGÇÖs College Cr. (U of T)
+3) Galbraith Rd / King's College Rd
+4) None.
+
+Input:  1
+
+id is 7359:
+0) Rosedale Park (20 Schofield Ave)
+1) Rosedale Park (20 Scholfield Ave)
+2) None.
+
+Input:  1
+
+id is 7360:
+0) Concord Av / Dewson St
+1) Concord Ave / Dewson St
+2) None.
+
+Input:  1
+
+id is 7361:
+0) Hocken Ave./Vaughan Rd.
+1) Hocken Ave / Vaughan Rd
+2) None.
+
+Input:  1
+
+id is 7364:
+0) Queen St E / Nursewood Rd (Neville Park Loop)
+1) Queen St E / Nursewood Rd
+2) None.
+
+Input:  0
+
+id is 7365:
+0) Kew Beach Ave / Kenilworth Ave
+1) Kewbeach Ave / Kenilworth Ave
+2) None.
+
+Input:  0
+
+id is 7366:
+0) Fort York Blvd / Bathurst St SMART
+1) Fort York Blvd / Bathurst St - SMART
+2) None.
+
+Input:  0
+
+id is 7368:
+0) Lisgar St / Dundas St SMART
+1) Lisgar St / Dundas St W - SMART
+2) None.
+
+Input:  1
+
+id is 7372:
+0) King St W / Portland St
+1) Adelaide St W / Portland St
+2) None.
+
+Input:  0
+
+id is 7381:
+0) Roehampton Ave / Yonge St
+1) Yonge St / Orchard View Blvd
+2) None.
+
+Input:  1
+
+id is 7384:
+0) Cumberland Ave / Bay St SMART
+1) Cumberland St / Bay St SMART
+2) None.
+
+Input:  0
+
+id is 7385:
+0) 20 Charles St E
+1) 20 Charles St E - SMART
+2) None.
+
+Input:  0
+
+id is 7386:
+0) D'Arcy St. /McCaul St. SMART
+1) D'Arcy St / McCaul St - SMART
+2) None.
+
+Input:  1
+
+id is 7388:
+0) Broadview Ave / Danforth Ave
+1) Broadview Subway Station
+2) None.
+
+Input:  1
+
+id is 7389:
+0) College Park- Gerrard Entrance
+1) College Park - Gerrard Entrance
+2) None.
+
+Input:  1
+
+id is 7398:
+0) York St / Harbour St
+1) York St / Lakeshore St W - South
+2) York St / Lake Shore Blvd W
+3) None.
+
+Input:  2
+
+id is 7399:
+0) Lower Jarvis / Queens Quay E
+1) Lower Jarvis St / Queens Quay E
+2) None.
+
+Input:  1
+
+id is 7403:
+0) Lascelles Blvd / Eglinton Ave W - SMART
+1) Lascelles Blvd / Eglinton Ave W
+2) None.
+
+Input:  1
+
+id is 7408:
+0) University Ave / Armoury St - SMART
+1) University Ave / Armoury St
+2) None.
+
+Input:  1
+
+id is 7410:
+0) Howard St / Rose Ave - SMART
+1) Howard St / Rose Ave
+2) None.
+
+Input:  1
+
+id is 7412:
+0) King St W / Crawford St - SMART
+1) King St W / Crawford St
+2) None.
+
+Input:  1
+
+id is 7413:
+0) Dundas St W / Watkinson Ave - SMART
+1) Dundas St W / Watkinson Ave
+2) None.
+
+Input:  1
+
+id is 7414:
+0) Keele St / Annette St - SMART
+1) Keele St / Annette St
+2) None.
+
+Input:  1
+
+id is 7415:
+0) Keele St / Vine Ave - SMART
+1) Keele St / Vine Ave
+2) None.
+
+Input:  1
+
+id is 7420:
+0) Barton St / Howland St - SMART
+1) Barton Ave / Howland Ave - SMART
+2) None.
+
+Input:  1
+
+id is 7423:
+0) Merton St / Al Green Ln - SMART
+1) Merton St / Al Green Ln
+2) None.
+
+Input:  1
+
+id is 7425:
+0) The Queensway at South Kingsway - SMART
+1) The Queensway at South Kingsway
+2) None.
+
+Input:  1
+
+id is 7429:
+0) Woodbine Subway Station - SMART
+1) Woodbine Subway Station
+2) None.
+
+Input:  1
+
+id is 7431:
+0) Gerrard St E / Leslie St - SMART
+1) Gerrard St E / Leslie St
+2) None.
+
+Input:  1
+
+id is 7434:
+0) Via Italia / Mackay Ave - SMART
+1) Via Italia / Mackay Ave
+2) 91 Via Italia
+3) None.
+
+Input:  1
+
+id is 7435:
+0) Rushton Rd / St Clair Ave W - SMART
+1) Rushton Rd / St Clair Ave W
+2) None.
+
+Input:  1
+
+id is 7437:
+0) Concord Ave / Bloor St W - SMART
+1) Concord Ave / Bloor St W
+2) None.
+
+Input:  1
+
+id is 7438:
+0) High Park Subway - SMART
+1) High Park Subway
+2) Gothic Ave / Quebec Ave
+3) None.
+
+Input:  3
+
+id is 7441:
+0) Pacific Ave / Glenlake Ave - SMART
+1) Pacific Ave / Glenlake Ave
+2) None.
+
+Input:  1
+
+id is 7445:
+0) Eastwood Rd / Coxwell Ave - SMART
+1) Eastwood Rd / Coxwell Ave
+2) None.
+
+Input:  1
+
+id is 7447:
+0) Trent Ave / Danforth Ave - SMART
+1) Trent Ave / Danforth Ave
+2) None.
+
+Input:  1
+
+id is 7448:
+0) Goodwood Park Ct / Dentonia Park - SMART
+1) Goodwood Park Ct / Dentonia Park
+2) Goodwood Park Crt / Dentonia Park
+3) None.
+
+Input:  2
+
+id is 7449:
+0) Cosburn Ave / Cedarvale Ave - SMART
+1) Cosburn Ave / Cedarvale Ave
+2) None.
+
+Input:  1
+
+id is 7450:
+0) Carlaw Ave / Danforth Ave - SMART
+1) Carlaw Ave / Danforth Ave
+2) None.
+
+Input:  1
+
+id is 7451:
+0) Western Battery Rd / Pirandello St - SMART
+1) Western Battery Rd / Pirandello St
+2) None.
+
+Input:  1
+
+id is 7459:
+0) St Clair Ave W / Winona Ave - SMART
+1) St Clair Ave W / Winona Ave
+2) St Clair Ave W / Winona Dr
+3) None.
+
+Input:  2
+
+id is 7466:
+0) Glendonwynne Ave / Bloor St W - SMART
+1) Glendonwynne Ave / Bloor St W
+2) Glendonwynne Rd / Bloor St W
+3) None.
+
+Input:  2
+
+id is 7468:
+0) Front St / Simcoe St
+1) Front St W / Simcoe St
+2) None.
+
+Input:  1
+
+id is 7469:
+0) Wellington St W / York St
+1) York St / Wellington St W 
+2) None.
+
+Input:  0
+
+id is 7471:
+0) Lake Shore Blvd W / Louisa St
+1) 2300 Lakeshore Blvd W
+2) None.
+
+Input:  0
+
+id is 7476:
+0) Symington Ave / Dupont St - SMART
+1) Symington Ave / Dupont St
+2) None.
+
+Input:  1
+
+id is 7480:
+0) Neil McLellan Park - SMART
+1) Neil McLellan Park
+2) None.
+
+Input:  1
+
+id is 7481:
+0) Westmount Ave / St Clair Ave W - SMART
+1) Westmount Ave / St Clair Ave W
+2) None.
+
+Input:  1
+
+id is 7482:
+0) Danforth Ave / Sibley Ave - SMART
+1) Danforth Ave / Sibley Ave
+2) None.
+
+Input:  1
+
+id is 7486:
+0) Gerrard St E / Ted Reeve Dr
+1) Gerrard St E / Main St
+2) None.
+
+Input:  1
+
+id is 7492:
+0) 324 Cherry St - SMART
+1) Lake Shore Blvd E / Cherry St
+2) 324 Cherry St
+3) Cherry St / Lake Shore Blvd E
+4) None.
+
+Input:  1
+
+id is 7497:
+0) 128 Sterling Ave - SMART
+1) 128 Sterling Rd - SMART
+2) None.
+
+Input:  0
+
+id is 7517:
+0) Ripley Ave / Ormskirk Ave - SMART
+1) Ripley Ave / Ormskirk Ave
+2) None.
+
+Input:  1
+
+id is 7518:
+0) Lake Shore Blvd W / Colborne Lodge Dr
+1) Lake Shore Blvd W / Colborne Lodge Dr - SMART
+2) None.
+
+Input:  0
+
+id is 7519:
+0) Sheridan Ave / Dundas St W - SMART
+1) Sheridan Ave / Dundas St W
+2) 406 Oakwood Ave
+3) None.
+
+Input:  1
+
+id is 7520:
+0) St Clarens Ave / Shirley Ave - SMART
+1) St Clarens Ave / Shirley Ave
+2) St Clarens Ave / Shirley St
+3) None.
+
+Input:  1
+
+id is 7521:
+0) Emerson Ave / Bloor St W - SMART
+1) Emerson Ave / Bloor St W
+2) None.
+
+Input:  1
+
+id is 7522:
+0) Wallace Ave / Pauline Ave - SMART
+1) Wallace Ave / Pauline Ave
+2) None.
+
+Input:  1
+
+id is 7523:
+0) Lynn Williams St / East Liberty St
+1) Lynn Williams St / East Liberty St - SMART
+2) None.
+
+Input:  0
+
+id is 7525:
+0) Fennings St / Queen St W - SMART
+1) Fennings St / Queen St W
+2) None.
+
+Input:  1
+
+id is 7528:
+0) Spadina Rd / Austin Terrace - SMART
+1) Spadina Rd / Austin Terrace
+2) None.
+
+Input:  1
+
+id is 7529:
+0) Symington Ave / Davenport Rd - SMART
+1) Symington Ave / Davenport Rd
+2) None.
+
+Input:  1
+
+id is 7530:
+0) Sherbourne St N / Elm Ave - SMART
+1) Sherbourne St N / Elm Ave
+2) None.
+
+Input:  1
+
+id is 7533:
+0) Housey St / Dan Leckie Way - SMART
+1) Housey St / Dan Leckie Way
+2) None.
+
+Input:  1
+
+id is 7536:
+0) Palmerston Ave / Dundas St W - SMART
+1) Palmerston Ave / Dundas St W
+2) None.
+
+Input:  1
+
+id is 7539:
+0) Davisville Ave / Pailton Cres - SMART
+1) Davisville Ave / Pailton Cres
+2) None.
+
+Input:  1
+
+id is 7540:
+0) Alvin Ave / St Clair Ave E - SMART
+1) Alvin Ave / St Clair Ave E
+2) None.
+
+Input:  1
+
+id is 7544:
+0) Foster Pl / Elizabeth St - SMART
+1) Foster Pl / Elizabeth St
+2) None.
+
+Input:  1
+
+id is 7545:
+0) Baldwin St / Henry St - SMART
+1) Baldwin St / Henry St
+2) None.
+
+Input:  1
+
+id is 7547:
+0) Orde St / McCaul St - SMART
+1) Orde St / McCaul St
+2) None.
+
+Input:  1
+
+id is 7548:
+0) St Joseph St / Bay St - SMART
+1) St. Joseph St / Bay St - SMART
+2) None.
+
+Input:  1
+
+id is 7549:
+0) 439 Sherbourne St - SMART
+1) 439 Sherbourne St
+2) None.
+
+Input:  1
+
+id is 7551:
+0) The Esplanade / Hahn Pl - SMART
+1) The Esplanade / Hahn Pl
+2) None.
+
+Input:  1
+
+id is 7553:
+0) Lake Shore Blvd W / Twenty Fourth St - SMART
+1) Lake Shore Blvd W / Twenty Fourth St
+2) None.
+
+Input:  1
+
+id is 7554:
+0) Humber College - SMART
+1) Humber College
+2) None.
+
+Input:  1
+
+id is 7557:
+0) The Queensway / High St - SMART
+1) The Queensway / High St
+2) None.
+
+Input:  1
+
+id is 7560:
+0) Glenwood Ave / Runnymede Rd - SMART
+1) Glenwood Ave / Runnymede Rd
+2) None.
+
+Input:  1
+
+id is 7561:
+0) Annette St / Jane St - SMART
+1) Annette St / Jane St
+2) None.
+
+Input:  1
+
+id is 7562:
+0) Priscilla  Ave / Dundas St W - SMART
+1) Priscilla  Ave / Dundas St W
+2) Priscilla Ave / Dundas St W
+3) None.
+
+Input:  2
+
+id is 7563:
+0) St Clair Ave W / Castleton Ave - SMART
+1) St Clair Ave W / Castleton Ave
+2) None.
+
+Input:  1
+
+id is 7564:
+0) Durie St / Dundas St W - SMART
+1) Durie St / Dundas St W
+2) None.
+
+Input:  1
+
+id is 7565:
+0) St Clair Ave W / Gunns Rd - SMART
+1) St Clair Ave W / Gunns Rd
+2) None.
+
+Input:  1
+
+id is 7572:
+0) Cosburn Ave / Durant Ave - SMART
+1) Cosburn Ave / Durant Ave
+2) None.
+
+Input:  1
+
+id is 7579:
+0) Glebe Rd W / Yonge St - SMART
+1) Glebe Rd W / Yonge St
+2) None.
+
+Input:  1
+
+id is 7580:
+0) Hillsdale Ave W / Yonge St - SMART
+1) Hillsdale Ave W / Yonge St
+2) None.
+
+Input:  1
+
+id is 7585:
+0) Sentinel Rd / Finch Hydro Corridor
+1) Sentinel Rd / Finch Corridor Trail
+2) None.
+
+Input:  1
+
+id is 7587:
+0) Dufferin St / Finch Hydro Recreational Trail
+1) Dufferin St / Finch Corridor Trail
+2) None.
+
+Input:  1
+
+id is 7591:
+0) Elwood Blvd / Avenue Rd - SMART
+1) Elwood Blvd / Avenue Rd
+2) None.
+
+Input:  1
+
+id is 7593:
+0) Roehampton St / Bayview Ave - SMART
+1) Roehampton St / Bayview Ave
+2) Roehampton Ave / Bayview Ave
+3) None.
+
+Input:  1
+
+id is 7594:
+0) Fleming Cres / Bayview Ave - SMART
+1) Fleming Cres / Bayview Ave
+2) None.
+
+Input:  1
+
+id is 7597:
+0) Yonge St / Golfdale Rd - SMART
+1) Yonge St / Golfdale Rd
+2) None.
+
+Input:  1
+
+id is 7598:
+0) Teddington Park Ave - SMART
+1) Teddington Park Ave
+2) None.
+
+Input:  1
+
+id is 7600:
+0) Russell St / Huron St - SMART
+1) Ursula Franklin St / Huron St - SMART
+2) None.
+
+Input:  2
+
+id is 7602:
+0) Woodbine Ave / O'Connor Dr - SMART
+1) Woodbine Ave / O'Connor Dr
+2) None.
+
+Input:  1
+
+id is 7603:
+0) O'Connor Dr / Curity Ave
+1) O'Connor Dr / Curity Ave - SMART
+2) O'Connor Dr / Curity Ave - Smart
+3) None.
+
+Input:  0
+
+id is 7604:
+0) St Columba Pl / St Clair Ave E - SMART
+1) St Columba Pl / St Clair Ave E
+2) None.
+
+Input:  1
+
+id is 7605:
+0) Lumsden Ave / Eastdale Ave - SMART
+1) Lumsden Ave / Eastdale Ave
+2) None.
+
+Input:  1
+
+id is 7607:
+0) Fairmount Park - SMART
+1) Fairmount Park
+2) None.
+
+Input:  1
+
+id is 7610:
+0) Kingston Rd / Beech Ave - SMART
+1) Kingston Rd / Beech Ave
+2) None.
+
+Input:  1
+
+id is 7611:
+0) Victoria Park Ave / Danforth Ave - SMART
+1) Victoria Park Ave / Danforth Ave
+2) None.
+
+Input:  1
+
+id is 7617:
+0) Starspray Ave / Lawrence Ave E
+1) Starspray Blvd / Lawrence Ave E
+2) None.
+
+Input:  1
+
+id is 7618:
+0) Vaughan Rd / Oakwood Ave - SMART
+1) Vaughan Rd / Oakwood Ave
+2) None.
+
+Input:  1
+
+id is 7619:
+0) Braemar Ave / Eglinton Ave W -SMART
+1) Braemar Ave / Eglinton Ave W
+2) None.
+
+Input:  1
+
+id is 7625:
+0) Guildwood GO Station (North)
+1) Yonge St / Lawrence Ave
+2) Yonge St / Lawrence Ave E
+3) None.
+
+Input:  2
+
+id is 7627:
+0) Shaw St / Essex St
+1) Shaw St / Essex St - SMART
+2) None.
+
+Input:  0
+
+id is 7629:
+0) Lundy Ave / Etienne Brule Park
+1) Lundy Ave / Étienne Brûlé Park
+2) None.
+
+Input:  0
+
+id is 7632:
+0) Chiltern Hill Rd / Eglinton Ave W - SMART
+1) Chiltern Hill Rd / Eglinton Ave W
+2) None.
+
+Input:  1
+
+id is 7634:
+0) University Ave / Gerrard St W (West Side)
+1) University Ave / Gerrard St W (WEST) - SMART
+2) None.
+
+Input:  0
+
+id is 7635:
+0) Runnymede Rd / Annette St - SMART
+1) Runnymede Rd / Annette St
+2) None.
+
+Input:  1
+
+id is 7636:
+0) Bloor St W / Riverside Ave
+1) Bloor St W / Riverside Dr
+2) None.
+
+Input:  1
+
+id is 7637:
+0) Judson St / Royal York
+1) Judson St / Royal York Rd
+2) None.
+
+Input:  1
+
+id is 7639:
+0) Riverview Gardens
+1) Riverview Gardens - SMART
+2) 135 Queens Wharf  - SMART
+3) 135 Queens Wharf Rd - SMART
+4) None.
+
+Input:  0
+
+id is 7641:
+0) Annette St / Dundas W
+1) Annette St / Dundas St W
+2) None.
+
+Input:  1
+
+id is 7647:
+0) Elm St/ University Ave (East)
+1) Elm St/ University Ave (East Side)
+2) None.
+
+Input:  0
+
+id is 7648:
+0) Rosedale Station
+1) 909 Yonge St
+2) None.
+
+Input:  2
+
+id is 7649:
+0) Greenwood Subway Station
+1) Greenwood Subway Station - SMART
+2) None.
+
+Input:  0
+
+id is 7650:
+0) St Clair W Subway - Heath Entrance
+1) St Clair West Subway Station - Heath Entrance
+2) None.
+
+Input:  1
+
+id is 7654:
+0) Bloor St W / Pacific Ave
+1) Bloor St W / Pacific Ave - SMART
+2) None.
+
+Input:  0
+
+id is 7657:
+0) 1 Market St
+1) 1 Market St - SMART
+2) None.
+
+Input:  0
+
+id is 7658:
+0) Holland Park Ave / Oakwood Ave
+1) Kings Mill Park
+2) King's Mill Park
+3) None.
+
+Input:  3
+
+id is 7666:
+0) Dundas St W / St Helen Ave - SMART
+1) Dundas St W / St Helen's Ave - SMART
+2) None.
+
+Input:  1
+
+id is 7675:
+0) 1525 Dundas St
+1) 1525 Dundas St W
+2) None.
+
+Input:  1
+
+id is 7680:
+0) Princes Gate / Nunavut Dr
+1) Princes' Blvd / Nunavut Rd
+2) None.
+
+Input:  1
+
+id is 7866:
+0) 697 Lansdowne Ave 
+1) 695 Lansdowne Ave 
+2) None.
+
+Input:  1
+

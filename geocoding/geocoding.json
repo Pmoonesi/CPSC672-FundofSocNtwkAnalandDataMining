@@ -1,0 +1,114 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "763",
+                    "short_name": "763",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Bay Street",
+                    "short_name": "Bay St.",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Old Toronto",
+                    "short_name": "Old Toronto",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Toronto",
+                    "short_name": "Toronto",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Toronto",
+                    "short_name": "Toronto",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Toronto",
+                    "short_name": "Toronto",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ontario",
+                    "short_name": "ON",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "M7A 1S5",
+                    "short_name": "M7A 1S5",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "763 Bay St., Toronto, ON M7A 1S5, Canada",
+            "geometry": {
+                "location": {
+                    "lat": 43.6601099,
+                    "lng": -79.3850708
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 43.6613604302915,
+                        "lng": -79.3839158697085
+                    },
+                    "southwest": {
+                        "lat": 43.6586624697085,
+                        "lng": -79.38661383029151
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 43.6599271,
+                        "longitude": -79.3853948
+                    }
+                }
+            ],
+            "place_id": "ChIJH6jV6bU0K4gRxNfEdq1Oa14",
+            "plus_code": {
+                "compound_code": "MJ67+2X Toronto, ON, Canada",
+                "global_code": "87M2MJ67+2X"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,27 @@
+id is 7000:
+0) Fort York  Blvd / Capreol Crt
+1) Fort York  Blvd / Capreol Ct
+2) None.
+
+Input:  0
+
+id is 7001:
+0) Lower Jarvis St / The Esplanade
+1) Wellesley Station Green P
+2) None.
+
+Input:  2
+
+id is 7002:
+0) St George St / Bloor St W
+1) St. George St / Bloor St W
+2) None.
+
+Input:  1
+
+id is 7005:
+0) University Ave / King St W
+1) King St W / York St
+2) None.
+
+Input: 2
