@@ -1,4 +1,4 @@
-from ..Threshold.similarity import compute_avg_similarity
+from ..threshold.similarity import compute_avg_similarity
 import pandas as pd
 import random
 
