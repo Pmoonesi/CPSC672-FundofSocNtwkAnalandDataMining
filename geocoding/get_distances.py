@@ -57,7 +57,7 @@ def haversine(lon1, lat1, lon2, lat2):
 from sklearn.metrics import pairwise_distances
 import pandas as pd
 
-stations_df = pd.read_csv('stations.csv')
+stations_df = pd.read_csv('grouped_stations.csv')
 
 D = pairwise_distances(stations_df[['lat', 'lng']], metric=get_distance)
-np.savetxt('distance_matrix.txt',D, fmt="%.4f")
+np.savetxt('distance_matrix_grp.txt',D, fmt="%.4f")
