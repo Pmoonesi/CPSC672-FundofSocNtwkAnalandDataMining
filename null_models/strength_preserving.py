@@ -24,6 +24,7 @@ def strength_preserving_rand_sa_dir_dist(
     connected=True,
     verbose=False,
     seed=None,
+    show_tqdm=False,
 ):
     """
     Strength-preserving network randomization using simulated annealing.
@@ -84,6 +85,8 @@ def strength_preserving_rand_sa_dir_dist(
         Default = False.
     seed: float, optional
         Random seed. Default = None.
+    show_tqdm: bool, optional
+        Whether to show progress bars or not. Default = False.
 
     Returns
     -------
@@ -178,7 +181,7 @@ def strength_preserving_rand_sa_dir_dist(
         if verbose:
             print("\ninitial energy {:.5f}".format(energy))
     
-        for istage in tqdm(range(nstage), desc="annealing progress"):
+        for istage in tqdm(range(nstage), desc="annealing progress", disable=not show_tqdm):
             naccept = 0
             for _ in range(niter):
                 # permutation

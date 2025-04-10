@@ -1,7 +1,111 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
+import os
 
+def plot_distribution(G1, name, deg_ext=None, bins=9, weight=None, save=False, save_folder='degree_dist'):
+
+    base_path = 'plots/'
+
+    nodes1, edges1 = G1.number_of_nodes(), G1.number_of_edges()
+
+    # tot_degrees1 = [deg for (id, deg) in G1.degree(weight=weight) if deg > 0]
+    in_degrees1 = [deg for (id, deg) in G1.in_degree(weight=weight) if deg > 0]
+    out_degrees1 = [deg for (id, deg) in G1.out_degree(weight=weight) if deg > 0]
+
+    if deg_ext:
+        # tot_kmin, tot_kmax, in_kmin, in_kmax, out_kmin, out_kmax = deg_ext
+        in_kmin, in_kmax, out_kmin, out_kmax = deg_ext
+    else:
+        # tot_kmin = min(tot_degrees1)
+        # tot_kmax = max(tot_degrees1)
+        in_kmin = min(in_degrees1)
+        in_kmax = max(in_degrees1)
+        out_kmin = min(out_degrees1)
+        out_kmax = max(out_degrees1)
+
+    # Get 10 logarithmically spaced bins between kmin and kmax
+    # tot_bin_edges_log = np.logspace(np.log10(tot_kmin), np.log10(tot_kmax), num=bins + 1)
+    in_bin_edges_log = np.logspace(np.log10(in_kmin), np.log10(in_kmax), num=bins + 1)
+    out_bin_edges_log = np.logspace(np.log10(out_kmin), np.log10(out_kmax), num=bins + 1)
+
+    # histogram the data into these bins
+    # tot_density_log1, _ = np.histogram(tot_degrees1, bins=tot_bin_edges_log, density=True)
+    in_density_log1, _ = np.histogram(in_degrees1, bins=in_bin_edges_log, density=True)    
+    out_density_log1, _ = np.histogram(out_degrees1, bins=out_bin_edges_log, density=True)
+
+    # "x" should be midpoint (IN LOG SPACE) of each bin
+    # tot_log_be_log = np.log10(tot_bin_edges_log)
+    # tot_x_log = 10**((tot_bin_edges_log[1:] + tot_bin_edges_log[:-1])/2)
+    
+    in_log_be_log = np.log10(in_bin_edges_log)
+    in_x_log = 10**((in_log_be_log[1:] + in_log_be_log[:-1])/2)
+    
+    out_log_be_log = np.log10(out_bin_edges_log)
+    out_x_log = 10**((out_log_be_log[1:] + out_log_be_log[:-1])/2)
+    
+
+    # Get 10 linearly spaced bins between kmin and kmax
+    # tot_bin_edges = np.linspace(tot_kmin, tot_kmax, num=bins + 1)
+    in_bin_edges = np.linspace(in_kmin, in_kmax, num=bins + 1)
+    out_bin_edges = np.linspace(out_kmin, out_kmax, num=bins + 1)
+    
+    # histogram the data into these bins
+    # tot_density1, _ = np.histogram(tot_degrees1, bins=tot_bin_edges, density=True)
+    in_density1, _ = np.histogram(in_degrees1, bins=in_bin_edges, density=True)
+    out_density1, _ = np.histogram(out_degrees1, bins=out_bin_edges, density=True)
+
+    # "x" should be midpoint (IN LOG SPACE) of each bin
+    # tot_log_be = np.log10(tot_bin_edges)
+    # tot_x = 10**((tot_log_be[1:] + tot_log_be[:-1])/2)
+    
+    in_log_be = np.log10(in_bin_edges)
+    in_x = 10**((in_log_be[1:] + in_log_be[:-1])/2)
+    
+    out_log_be = np.log10(out_bin_edges)
+    out_x = 10**((out_log_be[1:] + out_log_be[:-1])/2)
+
+    fig, axis = plt.subplots(2, 2, figsize=(12,9))
+
+    fig.suptitle(f"{name}{f' - {weight}' if weight is not None else ''}: nodes = {nodes1}, edges = {edges1}")
+
+    axis = axis.ravel()
+
+    # axis[0].loglog(tot_x_log, tot_density_log1, marker='o', linestyle='none', c='b', label='G1')
+    # axis[0].set_xlabel(r"total degree $k$ - loglog", fontsize=16)
+    # axis[0].set_ylabel(r"$P(k)$", fontsize=16)
+    
+    axis[0].loglog(in_x_log, in_density_log1, marker='o', linestyle='none', c='b', label='G1')
+    axis[0].set_xlabel(r"in degree $k$ - loglog", fontsize=16)
+    axis[0].set_ylabel(r"$P(k)$", fontsize=16)
+
+    axis[1].loglog(out_x_log, out_density_log1, marker='o', linestyle='none', c='b', label='G1')
+    axis[1].set_xlabel(r"out degree $k$ - loglog", fontsize=16)
+    axis[1].set_ylabel(r"$P(k)$", fontsize=16)
+    
+    # axis[3].plot(tot_x, tot_density1, marker='o', linestyle='none', c='b', label='G1')
+    # axis[3].set_xlabel(r"tot degree $k$", fontsize=16)
+    # axis[3].set_ylabel(r"$P(k)$", fontsize=16)
+
+    axis[2].plot(in_x, in_density1, marker='o', linestyle='none', c='b', label='G1')
+    axis[2].set_xlabel(r"in degree $k$", fontsize=16)
+    axis[2].set_ylabel(r"$P(k)$", fontsize=16)
+
+    axis[3].plot(out_x, out_density1, marker='o', linestyle='none', c='b', label='G1')
+    axis[3].set_xlabel(r"out degree $k$", fontsize=16)
+    axis[3].set_ylabel(r"$P(k)$", fontsize=16)
+    
+    # save the plot
+    if save:
+        save_path = os.path.join(base_path, save_folder, name)
+        plt.tight_layout()
+        fig.savefig(f"{save_path}.png")
+        plt.close()
+    else:
+        plt.tight_layout()
+        # plt.legend()
+        plt.show()
+    
 def compare_dists(G1, G2, name, deg_ext=None, bins=9, weight=None):
 
     nodes1, edges1 = G1.number_of_nodes(), G1.number_of_edges()

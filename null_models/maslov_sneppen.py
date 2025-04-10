@@ -100,7 +100,7 @@ def double_swap(G, *, nswap=1, max_tries=100, seed=None, keep=None, ):
 
     while swapcount < nswap:
         # choose source node index from discrete distribution
-        starting_points = discrete_sequence(2, cdistribution=cdf, seed=seed)\
+        starting_points = discrete_sequence(2, cdistribution=cdf, seed=seed)
 
         start1 = keys[starting_points[0]]
         start2 = keys[starting_points[1]]
